@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👩‍🔬 Pipeline Bio | Bioinformatics & Data Science  
 
-<!--
-**Bi0ma3/Bi0ma3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Welcome!  
 
-Here are some ideas to get you started:
+I'm a **biological data scientist** with a **Master's in Biological Data Science** (May 2025) and a **Data Scientist Associate Certification from DataCamp**. My work bridges **bioinformatics, data analysis, and coding education**, with a strong focus on **genomics, evolutionary biology, and statistical modeling**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 **Key Focus Areas:**  
+- **Bioinformatics & Computational Biology** 🧬  
+- **Data Science & Machine Learning** 📊  
+- **Unix/Linux for Bioinformatics** 💻  
+- **Python, R, SQL for Biological Data** 🖥️  
+- **Statistical Analysis & Visualization** 📈  
+
+### 🚀 What I'm Working On:  
+- **Exploring the Geographic Distribution of Skin Cancer-Related Gene Capstone Project** 🗺️  
+- **Developing Bioinformatics & Coding Content for Teachers Pay Teachers** 📚  
+- **Guest Speaker for Youth and Higher Education on Bioinformatics Careers** 🎤  
+
+### 📚 Teachers Pay Teachers: Pipeline Bio  
+I create **bioinformatics and coding resources** for **high school students (10th-12th grade)**. My content includes:  
+✅ **Introduction to Bioinformatics** (What is it? How is it used?)  
+✅ **Sequence Alignment, BLAST, & Biological Databases**  
+✅ **Python & R for Bioinformatics** (FASTA parsing, Biopython, ggplot2)  
+✅ **Phylogenetics & Evolutionary Trees**  
+✅ **Case Studies in DNA Analysis & Agricultural Genetics**  
+✅ **Worksheets, Coding Exercises, and Assessments**  
+
+Check out my **Pipeline Bio** store on [Teachers Pay Teachers](https://www.teacherspayteachers.com/store/pipeline-bio) (More content coming soon!).  
+
+### 🛠️ Tech Stack:  
+💡 **Programming**: Python, R, SQL, Bash  
+🧬 **Bioinformatics Tools**: Biopython, bcftools, NCBI, UniProt, BLAST  
+📊 **Data Science & Visualization**: Pandas, NumPy, Matplotlib, ggplot2  
+🐧 **Unix/Linux**: Command-line scripting, automation for genomic data  
+
+### 🎓 Speaking & Outreach  
+I enjoy **teaching and mentoring** students about bioinformatics, data science, and career paths in STEM.  
+- 🎤 **Upcoming Talk:** Bioinformatics Careers @ Tacoma Community College  
+- 🎓 **Previously:** High School Lecture Series on Bioinformatics  
+
+### 🔗 Connect with Me:  
+🚀 GitHub: **[Bi0ma3](https://github.com/Bi0ma3)**  
+📧 Email: **biology.mae@gmail.com**  
+📚 Teachers Pay Teachers: **Pipeline Bio** (https://www.teacherspayteachers.com/store/pipeline-bio) (More Content Coming Soon!)  
+💼 LinkedIn: **[Your LinkedIn Profile](https://www.linkedin.com/in/mae-w)**  
+
+---
+
+📌 **Follow for bioinformatics projects, coding tutorials, and educational content!** 🚀  
