@@ -41,8 +41,8 @@ I enjoy **teaching and mentoring** students about bioinformatics, data science, 
 ### 🔗 Connect with Me:  
 🚀 GitHub: **[Bi0ma3](https://github.com/Bi0ma3)**  
 📧 Email: **biology.mae@gmail.com**  
-📚 Teachers Pay Teachers: **Pipeline Bio** (https://www.teacherspayteachers.com/store/pipeline-bio) (More Content Coming Soon!)  
-💼 LinkedIn: **[Your LinkedIn Profile](https://www.linkedin.com/in/mae-w)**  
+📚 Teachers Pay Teachers: [**Pipeline Bio**](https://www.teacherspayteachers.com/store/pipeline-bio) (More Content Coming Soon!)  
+💼 LinkedIn: **[My LinkedIn](https://www.linkedin.com/in/mae-w)**  
 
 ---
 
