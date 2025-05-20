@@ -2,7 +2,7 @@
 
 ### 👋 Welcome!  
 
-I'm a **biological data scientist** with a **Master's in Biological Data Science** (May 2025) and a **Data Scientist Associate Certification from DataCamp**. My work bridges **bioinformatics, data analysis, and coding education**, with a strong focus on **genomics, evolutionary biology, and statistical modeling**.  
+I'm a **biological data scientist** with a **Master's in Biological Data Science** and a **Data Scientist Associate Certification from DataCamp**. My work bridges **bioinformatics, data analysis, and coding education**, with a strong focus on **genomics, evolutionary biology, and statistical modeling**.  
 
 🔬 **Key Focus Areas:**  
 - **Bioinformatics & Computational Biology** 🧬  
@@ -12,7 +12,7 @@ I'm a **biological data scientist** with a **Master's in Biological Data Science
 - **Statistical Analysis & Visualization** 📈  
 
 ### 🚀 What I'm Working On:  
-- **Exploring the Geographic Distribution of Skin Cancer-Related Gene Capstone Project** 🗺️  
+- **Continuosly Adding to My Tech Stack** 🗺️  
 - **Developing Bioinformatics & Coding Content for Teachers Pay Teachers** 📚  
 - **Guest Speaker for Youth and Higher Education on Bioinformatics Careers** 🎤  
 
@@ -30,7 +30,7 @@ Check out my **Pipeline Bio** store on [Teachers Pay Teachers](https://www.teach
 ### 🛠️ Tech Stack:  
 💡 **Programming**: Python, R, SQL, Bash  
 🧬 **Bioinformatics Tools**: Biopython, bcftools, NCBI, UniProt, BLAST  
-📊 **Data Science & Visualization**: Pandas, NumPy, Matplotlib, ggplot2  
+📊 **Data Science & Visualization**: Pandas, NumPy, Matplotlib, ggplot2, PyTorch, PowerBI  
 🐧 **Unix/Linux**: Command-line scripting, automation for genomic data  
 
 ### 🎓 Speaking & Outreach  
